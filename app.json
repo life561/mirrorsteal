@@ -7,8 +7,8 @@
     "mirror",
     "googledrive"
   ],
-  "repository": "https://github.com/CW4RR10R/python-aria-mirror-bot",
-  "success_url": "https://telegram.dog/LeechYourTorrentsBot",
+  "repository": "https://github.com/life561/mirrorsteal",
+  "success_url": "https://telegram.dog/torrentmir",
   "website": "https://github.com/CW4RR10R/python-aria-mirror-bot",  
   "env": {
     "BOT_TOKEN": {
